@@ -1,6 +1,6 @@
 
 <p>
-  <strong>Hello, I'm Arnaud,</strong> Front-end web developer from <b>Caen, France</b>.
+  <strong>Hello,Je suis Arnaud,</strong> Développeur web Front-end spécialisé React de <b>Caen, France</b>.
 </p>
 <h3>Various techs I use</h3>
 <p>
