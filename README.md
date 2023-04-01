@@ -6,7 +6,7 @@
 <h3>Mes compétences</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="React" src="https://img.shields.io/badge/-React---45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="[https://img.shields.io/badge/-React---45b8d8?style=flat-square&logo=react&logoColor=white](https://img.shields.io/badge/-React---45b8d8?style=flat-square&logo=react&logoColor=white)" />
   <img alt="React-Native" src="https://img.shields.io/badge/-React--Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-34A853?style=flat-square&logo=vuedotjs&logoColor=white" />
